@@ -1,0 +1,2 @@
+# schoolpercentage-cheaker
+use javascript
